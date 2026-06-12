@@ -16,6 +16,7 @@ The project implements an end-to-end **ETL pipeline** for loading, cleansing, tr
 
 ## Jupyter Notebook
 A direct link to the complete Jupyter Notebook containing the full ETL workflow, data transformation logic, and SQL processing steps:
+
 📓 [Open Jupyter Notebook](./Revenue_Cost_of_Sales_ETL_Eng.ipynb)
 
 ---
